@@ -36,8 +36,8 @@ The following insights are derived from the data:
 The Power BI dashboard includes the following visualizations:
 - **Total Sales and Profit**: Line charts and bar charts showing trends over time.
 - **Profit Margin**: A gauge chart displaying the profit margin.
-- **Product Performance**: A table and bar chart showing top-performing products.
-- **Customer Demographics**: Pie charts and maps showing customer distribution by geography and demographics.
+- **Product Performance**: A bar chart showing top-performing products.
+- **Customer Demographics**: Pie charts and bar chart showing customer distribution by gender and demographics.
 
 ## Conclusion
 
