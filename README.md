@@ -15,8 +15,7 @@ The data is sourced from the [AdventureWorksDW22 Database](https://github.com/Mi
   
 - `FactInternetSales`
 - `DIM_Date`
-- `DIM_Customers`
-- `DIM_Geography`
+- `DIM_Customers&Geography`
 - `DIM_Product`
 
 Only data with transactions in US dollars (USD) is considered for this analysis.
